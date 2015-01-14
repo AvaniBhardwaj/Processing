@@ -1,0 +1,10 @@
+size(500,500);
+background(255,0,0);
+fill(0,0,0);
+ellipse(60,60,100,100);
+fill(0,0,0);
+ellipse(325,60,100,100);
+fill(0,0,0);
+triangle(200,200,250,100,150,100);
+fill(0,0,0);
+arc(200,300, 350,350, 0, PI+QUARTER_PI, CHORD);
